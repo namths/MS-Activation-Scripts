@@ -1,2 +1,2 @@
-# KMS_VL
+# MAS
 Smart Activation Script
